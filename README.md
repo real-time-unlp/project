@@ -1,2 +1,2 @@
 # Semáforos Inteligentes
-Proyecto de la carrera Ingeniería en Computación para la materia Sistemas de Tiempo Real.
+Propuesta de proyecto para la materia Sistemas de Tiempo Real de la carrera Ingeniería en Computación.
